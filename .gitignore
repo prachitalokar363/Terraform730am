@@ -1,3 +1,5 @@
+gt .DS_Store
+
 #local terraform directories
 **/.terraform/*
 
